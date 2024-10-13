@@ -1,0 +1,14 @@
+# Default setup ignores
+/.vs
+
+# Greg's ignores
+# GSH: FireWandTest
+Greg/FireWandTest/*
+!Greg/FireWandTest/Assets
+Greg/FireWandTest/Assets/*
+!Greg/FireWandTest/Assets/FireWandTest
+
+# Thomas's ignores
+
+
+# Shared ignores
