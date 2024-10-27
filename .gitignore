@@ -7,6 +7,11 @@ Greg/FireWandTest/*
 !Greg/FireWandTest/Assets
 Greg/FireWandTest/Assets/*
 !Greg/FireWandTest/Assets/FireWandTest
+# GSH: VR Test 2
+Greg/VR Test 2/*
+!Greg/VR Test 2/Assets
+Greg/VR Test 2/Assets/*
+!Greg/VR Test 2/Assets/SpaceShooter2022
 
 # Thomas's ignores
 
